@@ -9,9 +9,9 @@ This repository contains a collection of papers on ***Diffusion Model-Based Imag
 - [Papers](#papers)
   - [Training-Based](#training-based)
     - [Domain-Specific Editing with Weak Supervision](#domain-specific-editing-with-weak-supervision)
-    - [Pseudo-Target Retrieval with Weak Supervision](#pseudo-target-retrieval-with-weak-supervision)
-    - [Instructional Editing via Full Supervision](#instructional-editing-via-full-supervision)
     - [Reference and Attribute Guidance via Self-Supervision](#reference-and-attribute-guidance-via-self-supervision)
+    - [Instructional Editing via Full Supervision](#instructional-editing-via-full-supervision)
+    - [Pseudo-Target Retrieval with Weak Supervision](#pseudo-target-retrieval-with-weak-supervision)
   - [Testing-Time Finetuning](#testing-time-finetuning)
     - [Denosing Model Finetuning](#denosing-model-finetuning)
     - [Embeddings Finetuning](#embeddings-finetuning)
@@ -85,18 +85,77 @@ CVPR 2022. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_Di
 2021.01
 
 
-### Pseudo-Target Retrieval with Weak Supervision
+### Reference and Attribute Guidance via Self-Supervision
 
-**Text-Driven Image Editing  via Learnable Regions** \
-*Lin, Yuanze and Chen,  Yi-Wen and Tsai, Yi-Hsuan and Jiang, Lu and Yang, Ming-Hsuan* \
-arXiv 2023. [[Paper](https://arxiv.org/abs/2311.16432)] \
-2023.11
+**SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control**\
+*Singh, Jaskirat and Zhang, Jianming and Liu, Qing and Smith, Cameron and Lin, Zhe and Zheng, Liang*\
+arXiv 2023. [[Paper](https://arxiv.org/pdf/2312.05039.pdf)]\
+2023.12
 
-**iEdit: Localised  Text-guided Image Editing with Weak Supervision** \
-*Bodur, Rumeysa and  Gundogdu, Erhan and Bhattarai, Binod and Kim, Tae-Kyun and Donoser, Michael  and Bazzani, Loris* \
-arXiv 2023. [[Paper](https://arxiv.org/abs/2305.05947)] \
+**A Task is Worth One Word: Learning with Task Prompts for High-Quality Versatile Image Inpainting**\
+*Zhuang, Junhao and Zeng, Yanhong and Liu, Wenran and Yuan, Chun and Chen, Kai*\
+arXiv 2023. [[Paper](http://arxiv.org/abs/2312.03594)]\
+2023.12
+
+**DreamInpainter: Text-Guided Subject-Driven Image Inpainting with Diffusion Models**\
+*Xie, Shaoan and Zhao, Yang and Xiao, Zhisheng and Chan, Kelvin CK and Li, Yandong and Xu, Yanwu and Zhang, Kun and Hou, Tingbo*\
+arXiv 2023. [[Paper](http://arxiv.org/abs/2312.03771)]\
+2023.12
+
+**Uni-paint: A Unified Framework for Multimodal Image Inpainting with Pretrained Diffusion Model**\
+*Yang, Shiyuan and Chen, Xiaodong and Liao, Jing*\
+ACM MM 2023. [[Paper](https://arxiv.org/abs/2310.07222)]\
+2023.10
+
+**Face Aging via Diffusion-based Editing**\
+*Xiangyi Chen and Stéphane Lathuilière*\
+BMVC 2023. [[Paper](https://arxiv.org/abs/2309.11321)]\
+2023.09
+
+**Anydoor: Zero-shot object-level image customization** \
+*Chen, Xi and Huang, Lianghua and Liu, Yu and Shen, Yujun and Zhao, Deli and Zhao, Hengshuang* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2307.09481)] \
+2023.07
+
+**Paste, Inpaint and Harmonize via Denoising: Subject-Driven Image Editing with Pre-Trained Diffusion Model**\
+*Zhang, Xin and Guo, Jiaxian and Yoo, Paul and Matsuo, Yutaka and Iwasawa, Yusuke*\
+arXiv 2023. [[Paper](http://arxiv.org/abs/2306.07596)]\
+2023.06
+
+**Text-to-image editing by image information removal**\
+*Zhang, Zhongping and Zheng, Jian and Fang, Zhiyuan and Plummer, Bryan A*\
+WACV 2024. [[Paper](https://arxiv.org/abs/2305.17489)]\
 2023.05
 
+**Reference-based Image Composition with Sketch via Structure-aware Diffusion Model**\
+*Kim, Kangyeol and Park, Sunghyun and Lee, Junsoo and Choo, Jaegul*\
+arXiv 2023. [[Paper](https://arxiv.org/abs/2304.09748)]\
+2023.04
+
+**Pair-diffusion: Object-level image editing with structure-and-appearance paired diffusion models**\
+*Goel, Vidit and Peruzzo, Elia and Jiang, Yifan and Xu, Dejia and Sebe, Nicu and Darrell, Trevor and Wang, Zhangyang and Shi, Humphrey*\
+arXiv 2023. [[Paper](https://arxiv.org/abs/2303.17546)]\
+2023.03
+
+**Imagen editor and editbench: Advancing and evaluating text-guided image inpainting**\
+*Wang, Su and Saharia, Chitwan and Montgomery, Ceslee and Pont-Tuset, Jordi and Noy, Shai and Pellegrini, Stefano and Onoe, Yasumasa and Laszlo, Sarah and Fleet, David J and Soricut, Radu and others*\
+CVPR 2023. [[Paper](https://arxiv.org/abs/2212.06909)]\
+2022.12
+
+**Smartbrush: Text and shape guided object inpainting with diffusion model**\
+*Xie, Shaoan and Zhang, Zhifei and Lin, Zhe and Hinz, Tobias and Zhang, Kun*\
+CVPR 2023. [[Paper](https://arxiv.org/abs/2212.05034)]\
+2022.12
+
+**ObjectStitch: Object Compositing With Diffusion Model**\
+*Song, Yizhi and Zhang, Zhifei and Lin, Zhe and Cohen, Scott and Price, Brian and Zhang, Jianming and Kim, Soo Ye and Aliaga, Daniel*\
+CVPR 2023. [[Paper](http://arxiv.org/abs/2212.00932)]\
+2022.12
+
+**Paint by example: Exemplar-based image editing with diffusion models**\
+*Yang, Binxin and Gu, Shuyang and Zhang, Bo and Zhang, Ting and Chen, Xuejin and Sun, Xiaoyan and Chen, Dong and Wen, Fang*\
+CVPR 2023. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Paint_by_Example_Exemplar-Based_Image_Editing_With_Diffusion_Models_CVPR_2023_paper.html)]\
+2022.11
 
 ###  Instructional Editing via Full Supervision
 **SmartEdit: Exploring Complex Instruction-based Image Editing with Multimodal Large Language Models**\
@@ -165,74 +224,17 @@ CVPR 2023. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Brooks_I
 2022.11
 
 
+### Pseudo-Target Retrieval with Weak Supervision
 
-### Reference and Attribute Guidance via Self-Supervision
+**Text-Driven Image Editing  via Learnable Regions** \
+*Lin, Yuanze and Chen,  Yi-Wen and Tsai, Yi-Hsuan and Jiang, Lu and Yang, Ming-Hsuan* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2311.16432)] \
+2023.11
 
-**SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control**\
-*Singh, Jaskirat and Zhang, Jianming and Liu, Qing and Smith, Cameron and Lin, Zhe and Zheng, Liang*\
-arXiv 2023. [[Paper](https://arxiv.org/pdf/2312.05039.pdf)]\
-2023.12
-
-**A Task is Worth One Word: Learning with Task Prompts for High-Quality Versatile Image Inpainting**\
-*Zhuang, Junhao and Zeng, Yanhong and Liu, Wenran and Yuan, Chun and Chen, Kai*\
-arXiv 2023. [[Paper](http://arxiv.org/abs/2312.03594)]\
-2023.12
-
-**DreamInpainter: Text-Guided Subject-Driven Image Inpainting with Diffusion Models**\
-*Xie, Shaoan and Zhao, Yang and Xiao, Zhisheng and Chan, Kelvin CK and Li, Yandong and Xu, Yanwu and Zhang, Kun and Hou, Tingbo*\
-arXiv 2023. [[Paper](http://arxiv.org/abs/2312.03771)]\
-2023.12
-
-**Uni-paint: A Unified Framework for Multimodal Image Inpainting with Pretrained Diffusion Model**\
-*Yang, Shiyuan and Chen, Xiaodong and Liao, Jing*\
-ACM MM 2023. [[Paper](https://arxiv.org/abs/2310.07222)]\
-2023.10
-
-**Face Aging via Diffusion-based Editing**\
-*Xiangyi Chen and Stéphane Lathuilière*\
-BMVC 2023. [[Paper](https://arxiv.org/abs/2309.11321)]\
-2023.09
-
-**Paste, Inpaint and Harmonize via Denoising: Subject-Driven Image Editing with Pre-Trained Diffusion Model**\
-*Zhang, Xin and Guo, Jiaxian and Yoo, Paul and Matsuo, Yutaka and Iwasawa, Yusuke*\
-arXiv 2023. [[Paper](http://arxiv.org/abs/2306.07596)]\
-2023.06
-
-**Text-to-image editing by image information removal**\
-*Zhang, Zhongping and Zheng, Jian and Fang, Zhiyuan and Plummer, Bryan A*\
-WACV 2024. [[Paper](https://arxiv.org/abs/2305.17489)]\
+**iEdit: Localised  Text-guided Image Editing with Weak Supervision** \
+*Bodur, Rumeysa and  Gundogdu, Erhan and Bhattarai, Binod and Kim, Tae-Kyun and Donoser, Michael  and Bazzani, Loris* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2305.05947)] \
 2023.05
-
-**Reference-based Image Composition with Sketch via Structure-aware Diffusion Model**\
-*Kim, Kangyeol and Park, Sunghyun and Lee, Junsoo and Choo, Jaegul*\
-arXiv 2023. [[Paper](https://arxiv.org/abs/2304.09748)]\
-2023.04
-
-**Pair-diffusion: Object-level image editing with structure-and-appearance paired diffusion models**\
-*Goel, Vidit and Peruzzo, Elia and Jiang, Yifan and Xu, Dejia and Sebe, Nicu and Darrell, Trevor and Wang, Zhangyang and Shi, Humphrey*\
-arXiv 2023. [[Paper](https://arxiv.org/abs/2303.17546)]\
-2023.03
-
-**Imagen editor and editbench: Advancing and evaluating text-guided image inpainting**\
-*Wang, Su and Saharia, Chitwan and Montgomery, Ceslee and Pont-Tuset, Jordi and Noy, Shai and Pellegrini, Stefano and Onoe, Yasumasa and Laszlo, Sarah and Fleet, David J and Soricut, Radu and others*\
-CVPR 2023. [[Paper](https://arxiv.org/abs/2212.06909)]\
-2022.12
-
-**Smartbrush: Text and shape guided object inpainting with diffusion model**\
-*Xie, Shaoan and Zhang, Zhifei and Lin, Zhe and Hinz, Tobias and Zhang, Kun*\
-CVPR 2023. [[Paper](https://arxiv.org/abs/2212.05034)]\
-2022.12
-
-**ObjectStitch: Object Compositing With Diffusion Model**\
-*Song, Yizhi and Zhang, Zhifei and Lin, Zhe and Cohen, Scott and Price, Brian and Zhang, Jianming and Kim, Soo Ye and Aliaga, Daniel*\
-CVPR 2023. [[Paper](http://arxiv.org/abs/2212.00932)]\
-2022.12
-
-**Paint by example: Exemplar-based image editing with diffusion models**\
-*Yang, Binxin and Gu, Shuyang and Zhang, Bo and Zhang, Ting and Chen, Xuejin and Sun, Xiaoyan and Chen, Dong and Wen, Fang*\
-CVPR 2023. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Paint_by_Example_Exemplar-Based_Image_Editing_With_Diffusion_Models_CVPR_2023_paper.html)]\
-2022.11
-
 
 ## Testing-Time Finetuning
 
@@ -324,10 +326,6 @@ ICLR. [[Paper](https://arxiv.org/abs/2209.15264)] \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2309.10556)] \
 2023.09
 
-**Anydoor: Zero-shot object-level image customization** \
-*Chen, Xi and Huang, Lianghua and Liu, Yu and Shen, Yujun and Zhao, Deli and Zhao, Hengshuang* \
-arXiv 2023. [[Paper](https://arxiv.org/abs/2307.09481)] \
-2023.07
 
 **LayerDiffusion: Layered Controlled Image Editing with Diffusion Models** \
 *Li, Pengzhi and Huang, QInxuan and Ding, Yikang and Li, Zhiheng* \
