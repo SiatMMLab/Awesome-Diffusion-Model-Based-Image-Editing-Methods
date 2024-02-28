@@ -1,8 +1,8 @@
 # Diffusion Models for Image Editing
-[![Awesome](media/badge.svg)](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods) 
-[![License: MIT](media/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Made With Love](media/Made-With-Love-red.svg)](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods)
-[![arXiv](media/arXiv-Paper-red.svg)](https://arxiv.org/abs/2402.17525) 
+[![Awesome](https://raw.githubusercontent.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods/main/media/badge.svg)](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods) 
+[![License: MIT](https://raw.githubusercontent.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods/main/media/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Made With Love](https://raw.githubusercontent.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods/main/media/Made-With-Love-red.svg)](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods)
+[![arXiv](https://raw.githubusercontent.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods/main/media/arXiv-Paper-red.svg)](https://arxiv.org/abs/2402.17525) 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=SiatMMLab.Awesome-Diffusion-Model-Based-Image-Editing-Methods)](https://visitor-badge.laobi.icu/badge?page_id=SiatMMLab.Awesome-Diffusion-Model-Based-Image-Editing-Methods)
 
 The repository is based on our survey [Diffusion Model-Based Image Editing: A Survey](https://arxiv.org/pdf/2402.17525.pdf).
