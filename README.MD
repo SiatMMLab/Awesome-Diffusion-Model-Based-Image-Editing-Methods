@@ -1,11 +1,16 @@
+# Diffusion Model-Based Image Editing: A Survey
 [![Awesome](media/badge.svg)](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods) 
 [![License: MIT](media/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Made With Love](media/Made-With-Love-red.svg)](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods)
+[![arXiv](media/arXiv-Paper-red.svg)](https://arxiv.org) 
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=SiatMMLab.Awesome-Diffusion-Model-Based-Image-Editing-Methods)](https://visitor-badge.laobi.icu/badge?page_id=SiatMMLab.Awesome-Diffusion-Model-Based-Image-Editing-Methods)
 
-This repository contains a collection of papers on ***Diffusion Model-Based Image Editing: A Survey***.
+Yi Huang, Jiancheng Huang, Yifan Liu , Mingfu Yan, Jiaxi Lv, Jianzhuang Liu, Wei Xiong, He Zhang, Shifeng Chen, Liangliang Cao
+
+Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences(SIAT), Adobe Inc, Apple Inc, Southern University of Science and Technology
 
 
-## Contents
+## Table of contents
 - [Papers](#papers)
   - [Training-Based](#training-based)
     - [Domain-Specific Editing with Weak Supervision](#domain-specific-editing-with-weak-supervision)
@@ -16,11 +21,11 @@ This repository contains a collection of papers on ***Diffusion Model-Based Imag
     - [Denosing Model Finetuning](#denosing-model-finetuning)
     - [Embeddings Finetuning](#embeddings-finetuning)
     - [Guidance with Hypernetworks](#guidance-with-hypernetworks)
-    - [Image Presentation Optimization](#image-presentation-optimization)
+    - [Latent Variable Optimization](#latent-variable-optimization)
     - [Hybrid Finetuning](#hybrid-finetuning)
   - [Training and Finetuning Free](#training-and-finetuning-free)
     - [Input Text Refinement](#input-text-refinement)
-    - [Inversion/sampling modification](#inversionsampling-modification)
+    - [Inversion/Sampling Modification](#inversionsampling-modification)
     - [Attention Modification](#attention-modification)
     - [Mask Guidance](#mask-guidance)
     - [Multi-Noise Redirection](#multi-noise-redirection)
@@ -291,12 +296,17 @@ ARXOV 2022. [[Paper](https://arxiv.org/abs/2211.13203)] \
 2022.11
 
 
-### Image Presentation Optimization
+### Latent Variable Optimization
 
 **Contrastive Denoising Score for Text-guided Latent Diffusion Image Editing** \
 *Nam, Hyelin and Kwon, Gihyun and Park, Geon Yeong and Ye, Jong Chul* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2311.18608)] \
 2023.11
+
+**MagicRemover: Tuning-free Text-guided Image inpainting with Diffusion Models** \
+*Yang, Siyuan and Zhang, Lu and Ma, Liqian and Liu, Yu and Fu, JingJing and He, You* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2310.02848)] \
+2023.10
 
 **Dragondiffusion: Enabling drag-style manipulation on diffusion models** \
 *Mou, Chong and Wang, Xintao and Song, Jiechong and Shan, Ying and Zhang, Jian* \
@@ -367,7 +377,7 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2305.18047)] \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2302.07979)] \
 2023.02
 
-### Inversion/sampling modification
+### Inversion/Sampling Modification
 **Fixed-point Inversion for Text-to-image diffusion models** \
 *Meiri, Barak and Samuel, Dvir and Darshan, Nir and Chechik, Gal and Avidan, Shai and Ben-Ari, Rami* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2312.12540)] \
@@ -408,9 +418,9 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2309.14934)] \
 arXiv 2024. [[Paper](https://arxiv.org/abs/2309.00613)] \
 2023.09
 
-**Improving Tuning-Free Real Image Editing with Proximal Guidance.** \
+**ProxEdit: Improving Tuning-Free Real Image Editing With Proximal Guidance** \
 *Han, Ligong and Wen, Song and Chen, Qi and Zhang, Zhixing and Song, Kunpeng and Ren, Mengwei and Gao, Ruijiang and Chen, Yuxiao and Di Liu 0003 and Zhangli, Qilong and others* \
-CORR 2023. [[Paper](https://arxiv.org/abs/2306.05414)] \
+WACV 2024. [[Paper](https://arxiv.org/abs/2306.05414)] \
 2023.06
 
 **Diffusion self-guidance for controllable image generation** \
@@ -507,11 +517,6 @@ ICLR. [[Paper](https://openreview.net/forum?id=_CDixzkzeyb)] \
 *Li, Shanglin and Zeng, Bohan and Feng, Yutang and Gao, Sicheng and Liu, Xuhui and Liu, Jiaming and Lin, Li and Tang, Xu and Hu, Yao and Liu, Jianzhuang and others* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2312.16794)] \
 2023.12
-
-**MagicRemover: Tuning-free Text-guided Image inpainting with Diffusion Models** \
-*Yang, Siyuan and Zhang, Lu and Ma, Liqian and Liu, Yu and Fu, JingJing and He, You* \
-arXiv 2023. [[Paper](https://arxiv.org/abs/2310.02848)] \
-2023.10
 
 **Watch your steps: Local image and scene editing by text instructions** \
 *Mirzaei, Ashkan and Aumentado-Armstrong, Tristan and Brubaker, Marcus A and Kelly, Jonathan and Levinshtein, Alex and Derpanis, Konstantinos G and Gilitschenski, Igor* \
