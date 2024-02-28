@@ -2,7 +2,7 @@
 [![Awesome](media/badge.svg)](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods) 
 [![License: MIT](media/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Made With Love](media/Made-With-Love-red.svg)](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods)
-[![arXiv](media/arXiv-Paper-red.svg)](https://arxiv.org) 
+[![arXiv](media/arXiv-Paper-red.svg)](https://arxiv.org/abs/2402.17525) 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=SiatMMLab.Awesome-Diffusion-Model-Based-Image-Editing-Methods)](https://visitor-badge.laobi.icu/badge?page_id=SiatMMLab.Awesome-Diffusion-Model-Based-Image-Editing-Methods)
 
 Yi Huang, Jiancheng Huang, Yifan Liu , Mingfu Yan, Jiaxi Lv, Jianzhuang Liu, Wei Xiong, He Zhang, Shifeng Chen, Liangliang Cao
