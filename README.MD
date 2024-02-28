@@ -1,13 +1,31 @@
-# Diffusion Model-Based Image Editing: A Survey
+# Diffusion Models for Image Editing
 [![Awesome](media/badge.svg)](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods) 
 [![License: MIT](media/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Made With Love](media/Made-With-Love-red.svg)](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods)
 [![arXiv](media/arXiv-Paper-red.svg)](https://arxiv.org/abs/2402.17525) 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=SiatMMLab.Awesome-Diffusion-Model-Based-Image-Editing-Methods)](https://visitor-badge.laobi.icu/badge?page_id=SiatMMLab.Awesome-Diffusion-Model-Based-Image-Editing-Methods)
 
+The repository is based on our survey [Diffusion Model-Based Image Editing: A Survey](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods).
+
 Yi Huang, Jiancheng Huang, Yifan Liu , Mingfu Yan, Jiaxi Lv, Jianzhuang Liu, Wei Xiong, He Zhang, Shifeng Chen, Liangliang Cao
 
-Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences(SIAT), Adobe Inc, Apple Inc, Southern University of Science and Technology
+Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS), Adobe Inc, Apple Inc, Southern University of Science and Technology (SUSTech)
+
+## Abstract
+Denoising diffusion models have emerged as a powerful tool for various image generation and editing tasks, facilitating the synthesis of visual content in an unconditional or input-conditional manner. The core idea behind them is learning to reverse the process of gradually adding noise to images, allowing them to generate high-quality samples from a complex distribution. In this survey, we provide an exhaustive overview of existing methods using diffusion models for image editing, covering both theoretical and practical aspects in the ﬁeld. 
+We delve into a thorough analysis and categorization of these works from multiple perspectives, including learning strategies, user-input conditions, and the array of specific editing tasks that can be accomplished.
+In addition, we pay special attention to image inpainting and outpainting, and explore both earlier traditional context-driven and current multimodal conditional methods, offering a comprehensive analysis of their methodologies.
+To further evaluate the performance of text-guided image editing algorithms, we propose a systematic benchmark, EditEval, featuring an innovative metric, LMM Score.
+Finally, we address current limitations and envision some potential directions for future research.
+
+## 🔖 News!!!
+
+📌 We are tracking the latest work. Free to contact us if you would like to incorporate your studies in this repository and our survey paper.
+
+📰 2024-02-28: Survey paper that encompasses related works before 01/02/2024 is released!
+
+
+
 
 
 ## Table of contents
