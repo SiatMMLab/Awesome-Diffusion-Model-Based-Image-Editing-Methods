@@ -27,7 +27,7 @@ Finally, we address current limitations and envision some potential directions f
 
 📌 We are tracking the latest work. Free to contact us if you would like to incorporate your studies in this repository and our survey paper.
 
-📰 2024-02-28: Survey paper that encompasses related works before 01/02/2024 is released!
+📰 2024-02-28: Our comprehensive survey paper, summarizing related methods published before February 1, 2024, is now available!
 
 
 
