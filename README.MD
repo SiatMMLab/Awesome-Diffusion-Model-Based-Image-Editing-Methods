@@ -1,4 +1,9 @@
-# Diffusion Models for Image Editing
+[//]: # (# Diffusion Models for Image Editing)
+
+<p align="center">
+  <img src="./media/title.png" alt="image" style="width:1000px;">
+</p>
+
 [![Awesome](https://raw.githubusercontent.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods/main/media/badge.svg)](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods) 
 [![License: MIT](https://raw.githubusercontent.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods/main/media/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Made With Love](https://raw.githubusercontent.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods/main/media/Made-With-Love-red.svg)](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods)
