@@ -12,7 +12,7 @@
 
 The repository is based on our survey [Diffusion Model-Based Image Editing: A Survey](https://arxiv.org/pdf/2402.17525.pdf).
 
-Yi Huang, Jiancheng Huang, Yifan Liu, Mingfu Yan, Jiaxi Lv, Jianzhuang Liu, Wei Xiong, He Zhang, Liangliang Cao, Shifeng Chen
+Yi Huang*, Jiancheng Huang*, Yifan Liu*, Mingfu Yan*, Jiaxi Lv*, Jianzhuang Liu*, Wei Xiong, He Zhang, Liangliang Cao, Shifeng Chen
 
 Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS), Adobe Inc, Apple Inc, Southern University of Science and Technology (SUSTech)
 
@@ -263,6 +263,11 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2311.16432)] \
 **iEdit: Localised  Text-guided Image Editing with Weak Supervision** \
 *Bodur, Rumeysa and  Gundogdu, Erhan and Bhattarai, Binod and Kim, Tae-Kyun and Donoser, Michael  and Bazzani, Loris* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2305.05947)] \
+2023.05
+
+**ChatFace: Chat-Guided Real Face Editing via Diffusion Latent Space Manipulation** \
+*Dongxu Yue, Qin Guo, Munan Ning, Jiaxi Cui, Yuesheng Zhu, Li Yuan* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2305.14742)] \
 2023.05
 
 ## Testing-Time Finetuning
