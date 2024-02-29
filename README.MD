@@ -265,6 +265,11 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2311.16432)] \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2305.05947)] \
 2023.05
 
+**ChatFace: Chat-Guided Real Face Editing via Diffusion Latent Space Manipulation** \
+*Dongxu Yue, Qin Guo, Munan Ning, Jiaxi Cui, Yuesheng Zhu, Li Yuan* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2305.14742)] \
+2023.05
+
 ## Testing-Time Finetuning
 
 ### Denosing Model Finetuning
