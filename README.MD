@@ -321,7 +321,7 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2303.15649)] \
 
 **Inversion-based creativity transfer with diffusion models** \
 *Zhang, Yuxin and Huang, Nisha and Tang, Fan and Huang, Haibin and Ma, Chongyang and Dong, Weiming and Xu, Changsheng* \
-ARXOV 2022. [[Paper](https://arxiv.org/abs/2211.13203)] \
+CVPR 2023. [[Paper](https://arxiv.org/abs/2211.13203)] \
 2022.11
 
 
