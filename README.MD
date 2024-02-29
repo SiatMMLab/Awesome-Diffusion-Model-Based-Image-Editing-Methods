@@ -5,9 +5,9 @@
 [![arXiv](https://raw.githubusercontent.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods/main/media/arXiv-Paper-red.svg)](https://arxiv.org/abs/2402.17525) 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=SiatMMLab.Awesome-Diffusion-Model-Based-Image-Editing-Methods)](https://visitor-badge.laobi.icu/badge?page_id=SiatMMLab.Awesome-Diffusion-Model-Based-Image-Editing-Methods)
 
-The repository is based on our survey [Diffusion Model-Based Image Editing: A Survey](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods).
+The repository is based on our survey [Diffusion Model-Based Image Editing: A Survey](https://arxiv.org/pdf/2402.17525.pdf).
 
-Yi Huang, Jiancheng Huang, Yifan Liu , Mingfu Yan, Jiaxi Lv, Jianzhuang Liu, Wei Xiong, He Zhang, Shifeng Chen, Liangliang Cao
+Yi Huang, Jiancheng Huang, Yifan Liu, Mingfu Yan, Jiaxi Lv, Jianzhuang Liu, Wei Xiong, He Zhang, Liangliang Cao, Shifeng Chen
 
 Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS), Adobe Inc, Apple Inc, Southern University of Science and Technology (SUSTech)
 
@@ -23,6 +23,7 @@ Finally, we address current limitations and envision some potential directions f
 📌 We are tracking the latest work. Free to contact us if you would like to incorporate your studies in this repository and our survey paper.
 
 📰 2024-02-28: Survey paper that encompasses related works before 01/02/2024 is released!
+
 
 
 
