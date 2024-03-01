@@ -33,13 +33,11 @@ Finally, we address current limitations and envision some potential directions f
 ## 🔍 Bib
 
 ```
-@misc{huang2024diffusion,
+@article{huang2024diffusion,
       title={Diffusion Model-Based Image Editing: A Survey}, 
-      author={Yi Huang and Jiancheng Huang and Yifan Liu and Mingfu Yan and Jiaxi Lv and Jianzhuang Liu and Wei Xiong and He Zhang and Shifeng Chen and Liangliang Cao},
+      author={Huang, Yi and Huang, Jiancheng and Liu, Yifan and Yan, Mingfu and Lv, Jiaxi and Liu, Jianzhuang and Xiong, Wei and Zhang, He and Chen, Shifeng and Cao, Liangliang},
       year={2024},
-      eprint={2402.17525},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      journal={arXiv preprint arXiv:2402.17525}
 }
 ```
 
