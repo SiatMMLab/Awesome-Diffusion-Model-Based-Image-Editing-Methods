@@ -30,7 +30,18 @@ Finally, we address current limitations and envision some potential directions f
 📰 2024-02-28: Our comprehensive survey paper, summarizing related methods published before February 1, 2024, is now available!
 
 
+## Bib
 
+```
+@misc{huang2024diffusion,
+      title={Diffusion Model-Based Image Editing: A Survey}, 
+      author={Yi Huang and Jiancheng Huang and Yifan Liu and Mingfu Yan and Jiaxi Lv and Jianzhuang Liu and Wei Xiong and He Zhang and Shifeng Chen and Liangliang Cao},
+      year={2024},
+      eprint={2402.17525},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 
 
 
