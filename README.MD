@@ -30,7 +30,7 @@ Finally, we address current limitations and envision some potential directions f
 📰 2024-02-28: Our comprehensive survey paper, summarizing related methods published before February 1, 2024, is now available!
 
 
-## 🔍 Bib
+## 🔍 BibTeX
 
 ```
 @article{huang2024diffusion,
