@@ -133,7 +133,7 @@ Finally, we address current limitations and envision some potential directions f
 
 | Title                                                                                      | Pub                | Release Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
-| [Kv inversion: Kv embeddings learning for text-conditioned real image action editing](https://link.springer.com/chapter/10.1007/978-981-99-8429-9_14) | PRCV 2023 | 2023.09 |
+| [Kv inversion: Kv embeddings learning for text-conditioned real image action editing](https://link.springer.com/chapter/10.1007/978-981-99-8429-9_14) | arXiv 2023 | 2023.09 |
 | [Custom-edit: Text-guided image editing with customized diffusion models](https://arxiv.org/abs/2305.15779) | arXiv 2023 | 2023.05 |
 | [Unitune: Text-driven image editing by fine tuning an image generation model on a single image](https://arxiv.org/abs/2210.09477) | arXiv 2022 | 2022.10 |
 
