@@ -129,23 +129,6 @@ Finally, we address current limitations and envision some potential directions f
 
 ## Testing-Time Finetuning
 
-| Title                                                                                      | Pub                | Release Date |
-|-------------------------------------------------------------------------------------------|--------------------|--------------|
-| [SmartEdit: Exploring Complex Instruction-based Image Editing with Multimodal Large Language Models](http://arxiv.org/abs/2312.06739) | arXiv 2023 | 2023.12 |
-| [InstructAny2Pix: Flexible Visual Editing via Multimodal Instruction Following](http://arxiv.org/abs/2312.06738) | arXiv 2023 | 2023.12 |
-| [Focus on Your Instruction: Fine-grained and Multi-instruction Image Editing by Attention Modulation](http://arxiv.org/abs/2312.10113) | arXiv 2023 | 2023.12 |
-| [Emu edit: Precise image editing via recognition and generation tasks](http://arxiv.org/abs/2311.10089) | arXiv 2023 | 2023.11 |
-| [Guiding instruction-based image editing via multimodal large language models](http://arxiv.org/abs/2309.17102) | arXiv 2023 | 2023.09 |
-| [Instructdiffusion: A generalist modeling interface for vision tasks](https://arxiv.org/abs/2309.03895) | arXiv 2023 | 2023.09 |
-| [MoEController: Instruction-based Arbitrary Image Manipulation with Mixture-of-Expert Controllers](https://arxiv.org/abs/2309.04372) | arXiv 2023 | 2023.09 |
-| [ImageBrush: Learning Visual In-Context Instructions for Exemplar-Based Image Manipulation](http://arxiv.org/abs/2308.00906) | NeurIPS 2023 | 2023.08 |
-| [Inst-Inpaint: Instructing to Remove Objects with Diffusion Models](http://arxiv.org/abs/2304.03246) | arXiv 2023 | 2023.04 |
-| [HIVE: Harnessing Human Feedback for Instructional Visual Editing](https://arxiv.org/abs/2303.09618) | arXiv 2023 | 2023.03 |
-| [DialogPaint: A Dialog-based Image Editing Model](http://arxiv.org/abs/2303.10073) | arXiv 2023 | 2023.01 |
-| [Learning to Follow Object-Centric Image Editing Instructions Faithfully](https://aclanthology.org/2023.findings-emnlp.646/) | ACL 2023 | 2023.01 |
-| [Instructpix2pix: Learning to follow image editing instructions](https://openaccess.thecvf.com/content/CVPR2023/html/Brooks_InstructPix2Pix_Learning_To_Follow_Image_Editing_Instructions_CVPR_2023_paper.html) | CVPR 2023 | 2022.11 |
-
-
 ### Testing-Time Finetuning: Denosing Model Finetuning
 
 | Title                                                                                      | Pub                | Release Date |
