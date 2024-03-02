@@ -1,0 +1,94 @@
+name: Paper Submission Form
+description: Use this form to submit a paper for this repository.
+title: "Paper Submission "
+labels: ["paper-submission"]
+assignees: []
+body:
+  - type: input
+    id: paper-title
+    attributes:
+      label: Paper Title
+      description: Enter the title of your paper.
+      placeholder: "Your paper title here"
+    validations:
+      required: true
+
+  - type: input
+    id: publication-venue
+    attributes:
+      label: Publication
+      description: "Please specify where your paper is published."
+      placeholder: "arXiv 2024, etc."
+    validations:
+      required: true
+
+  - type: input
+    id: paper-link
+    attributes:
+      label: Paper Link
+      description: Provide an arXiv link or publication link for your paper.
+      placeholder: "http(s)://"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: main-category
+    attributes:
+      label: Main Method Category
+      description: Select the main method category of your paper.
+      options:
+        - Training-Based
+        - Testing-Time Finetuning
+        - Training and Finetuning Free
+    validations:
+      required: true
+
+  - type: dropdown
+    id: training-based-specifics
+    attributes:
+      label: Training-Based Specifics (Optional)
+      description: "If you select 'Training-Based', please select a more specific category. If you prefer not to specify, it's okay; we will classify it for you."
+      options:
+        - Domain-Specific Editing with Weak Supervision
+        - Reference and Attribute Guidance via Self-Supervision
+        - Instructional Editing via Full Supervision
+        - Pseudo-Target Retrieval with Weak Supervision
+    validations:
+      required: false
+
+  - type: dropdown
+    id: testing-time-finetuning-specifics
+    attributes:
+      label: Testing-Time Finetuning Specifics (Optional)
+      description: "If you select 'Testing-Time Finetuning', please select a more specific category. If you prefer not to specify, it's okay; we will classify it for you."
+      options:
+        - Denosing Model Finetuning
+        - Embeddings Finetuning
+        - Guidance with Hypernetworks
+        - Latent Variable Optimization
+        - Hybrid Finetuning
+    validations:
+      required: false
+
+  - type: dropdown
+    id: training-and-finetuning-free-specifics
+    attributes:
+      label: Training and Finetuning Free Specifics (Optional)
+      description: "If you select 'Training and Finetuning Free', please select a more specific category. If you prefer not to specify, it's okay; we will classify it for you."
+      options:
+        - Input Text Refinement
+        - Inversion/Sampling Modification
+        - Attention Modification
+        - Mask Guidance
+        - Multi-Noise Redirection
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: Additional Information (Optional)
+      description: "If there is anything else you'd like to add or specify about your submission, please do so here."
+      placeholder: "Any other details or context for your paper submission."
+    validations:
+      required: false

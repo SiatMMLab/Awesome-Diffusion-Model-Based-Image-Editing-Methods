@@ -196,6 +196,7 @@ Finally, we address current limitations and envision some potential directions f
 
 | Title                                                                                      | Pub                | Release Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
+| [Inversion-Free Image Editing with Natural Language](https://arxiv.org/abs/2312.04965) | CVPR 2024 | 2023.12 |
 | [Fixed-point Inversion for Text-to-image diffusion models](https://arxiv.org/abs/2312.12540) | arXiv 2023 | 2023.12 |
 | [Tuning-Free Inversion-Enhanced Control for Consistent Image Editing](https://arxiv.org/abs/2312.14611) | arXiv 2023 | 2023.12 |
 | [The Blessing of Randomness: SDE Beats ODE in General Diffusion-based Image Editing](https://arxiv.org/abs/2311.01410) | arXiv 2023 | 2023.11 |
