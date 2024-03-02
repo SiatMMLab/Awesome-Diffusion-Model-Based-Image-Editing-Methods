@@ -1,0 +1,48 @@
+name: Auto Label and Assign Based on Main Method Category
+
+on:
+  issues:
+    types: [opened, edited]
+
+jobs:
+  auto-label-and-assign:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Label and Assign Based on Category
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issueBody = context.payload.issue.body;
+            const categories = {
+              'Training-Based': {
+                label: 'training',
+                assignees: ['Zwette', 'jiaxilv']
+              },
+              'Testing-Time Finetuning': {
+                label: 'testing-time finetuning',
+                assignees: ['liuyifan6613']
+              },
+              'Training and Finetuning Free': {
+                label: 'training & finetuning free',
+                assignees: ['huangjch526', 'mingfuyan']
+              }
+            };
+            
+            Object.keys(categories).forEach(category => {
+              const pattern = new RegExp(`Main Method Category\\s*\\n\\s*${category}`);
+              if (pattern.test(issueBody)) {
+                const { label, assignees } = categories[category];
+                github.rest.issues.addLabels({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: context.issue.number,
+                  labels: [label],
+                });
+                github.rest.issues.addAssignees({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: context.issue.number,
+                  assignees: assignees,
+                });
+              }
+            });
