@@ -2,7 +2,7 @@ name: Paper Submission Form
 description: Use this form to submit a paper for this repository.
 title: "Paper Submission "
 labels: ["paper-submission"]
-assignees: []
+assignees: ['huangjch526']
 body:
   - type: input
     id: paper-title
