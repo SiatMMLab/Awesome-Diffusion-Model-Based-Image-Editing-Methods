@@ -104,7 +104,7 @@ Finally, we address current limitations and envision some potential directions f
 ### Training-Based: Instructional Editing via Full Supervision
 | Title                                                                                      | Pub                | Release Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
-| [SmartEdit: Exploring Complex Instruction-based Image Editing with Multimodal Large Language Models](http://arxiv.org/abs/2312.06739) | arXiv 2023 | 2023.12 |
+| [SmartEdit: Exploring Complex Instruction-based Image Editing with Multimodal Large Language Models](http://arxiv.org/abs/2312.06739) | CVPR 2024 | 2023.12 |
 | [InstructAny2Pix: Flexible Visual Editing via Multimodal Instruction Following](http://arxiv.org/abs/2312.06738) | arXiv 2023 | 2023.12 |
 | [Focus on Your Instruction: Fine-grained and Multi-instruction Image Editing by Attention Modulation](http://arxiv.org/abs/2312.10113) | arXiv 2023 | 2023.12 |
 | [Emu edit: Precise image editing via recognition and generation tasks](http://arxiv.org/abs/2311.10089) | arXiv 2023 | 2023.11 |
