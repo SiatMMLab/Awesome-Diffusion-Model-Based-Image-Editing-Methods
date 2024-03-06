@@ -27,6 +27,8 @@ Finally, we address current limitations and envision some potential directions f
 
 📌 We are actively tracking the latest research and welcome contributions to our repository and survey paper. If your studies are relevant, please feel free to contact us.
 
+📰 2024-03-06: We establish a template for paper submissions. This template is accessible by navigating to the `New Issue` button within `Issues` or by clicking [here](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods/issues/new/choose). Once there, please select the `Paper Submission Form` and complete it following the guidelines provided.
+
 📰 2024-02-28: Our comprehensive survey paper, summarizing related methods published before February 1, 2024, is now available!
 
 
