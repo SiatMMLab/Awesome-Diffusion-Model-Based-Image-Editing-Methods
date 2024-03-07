@@ -108,7 +108,7 @@ Finally, we address current limitations and envision some potential directions f
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
 | [SmartEdit: Exploring Complex Instruction-based Image Editing with Multimodal Large Language Models](http://arxiv.org/abs/2312.06739) | CVPR 2024 | 2023.12 |
 | [InstructAny2Pix: Flexible Visual Editing via Multimodal Instruction Following](http://arxiv.org/abs/2312.06738) | arXiv 2023 | 2023.12 |
-| [Focus on Your Instruction: Fine-grained and Multi-instruction Image Editing by Attention Modulation](http://arxiv.org/abs/2312.10113) | arXiv 2023 | 2023.12 |
+| [Focus on Your Instruction: Fine-grained and Multi-instruction Image Editing by Attention Modulation](http://arxiv.org/abs/2312.10113) | CVPR 2024 | 2023.12 |
 | [Emu edit: Precise image editing via recognition and generation tasks](http://arxiv.org/abs/2311.10089) | arXiv 2023 | 2023.11 |
 | [Guiding instruction-based image editing via multimodal large language models](http://arxiv.org/abs/2309.17102) | arXiv 2023 | 2023.09 |
 | [Instructdiffusion: A generalist modeling interface for vision tasks](https://arxiv.org/abs/2309.03895) | arXiv 2023 | 2023.09 |
@@ -236,7 +236,7 @@ Finally, we address current limitations and envision some potential directions f
 
 | Title                                                                                      | Pub                | Release Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
-| [ZONE: Zero-Shot Instruction-Guided Local Editing](https://arxiv.org/abs/2312.16794) | arXiv 2023 | 2023.12 |
+| [ZONE: Zero-Shot Instruction-Guided Local Editing](https://arxiv.org/abs/2312.16794) | CVPR 2024 | 2023.12 |
 | [Watch your steps: Local image and scene editing by text instructions](https://arxiv.org/abs/2308.08947) | arXiv 2023 | 2023.08 |
 | [Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models](https://arxiv.org/abs/2306.09869) | NeurIPS 2023 | 2023.06 |
 | [Differential Diffusion: Giving Each Pixel Its Strength](https://arxiv.org/abs/2306.00950) | arXiv 2023 | 2023.06 |
