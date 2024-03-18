@@ -178,6 +178,8 @@ Finally, we address current limitations and envision some potential directions f
 
 | Title                                                                                      | Pub                | Release Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
+| [StableDrag: Stable Dragging for Point-based Image Editing](https://arxiv.org/abs/2403.04437) | arXiv 2024 | 2024.03 |
+| [FreeDrag: Feature Dragging for Reliable Point-based Image Editing](https://arxiv.org/abs/2307.04684) | CVPR 2024 | 2023.12 |
 | [Contrastive Denoising Score for Text-guided Latent Diffusion Image Editing](https://arxiv.org/abs/2311.18608) | arXiv 2023 | 2023.11 |
 | [MagicRemover: Tuning-free Text-guided Image inpainting with Diffusion Models](https://arxiv.org/abs/2310.02848) | arXiv 2023 | 2023.10 |
 | [Dragondiffusion: Enabling drag-style manipulation on diffusion models](https://arxiv.org/abs/2307.02421) | arXiv 2023 | 2023.07 |
