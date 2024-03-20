@@ -186,6 +186,7 @@ Finally, we address current limitations and envision some potential directions f
 | [DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing](https://arxiv.org/abs/2306.14435) | arXiv 2023 | 2023.06 |
 | [Delta denoising score](https://openaccess.thecvf.com/content/ICCV2023/html/Hertz_Delta_Denoising_Score_ICCV_2023_paper.html) | ICCV 2023 | 2023.04 |
 | [Diffusion-based Image Translation using disentangled style and content representation](https://arxiv.org/abs/2209.15264) | ICLR 2022 | 2022.09 |
+| [Directed Diffusion: Direct Control of Object Placement through Attention Guidance](https://arxiv.org/pdf/2302.13153.pdf) | AAAI 2024 | 2023.02 |
 
 
 ### Testing-Time Finetuning: Hybrid Finetuning
