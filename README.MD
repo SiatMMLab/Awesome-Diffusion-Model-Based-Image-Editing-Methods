@@ -89,7 +89,7 @@ Finally, we address current limitations and envision some potential directions f
 | [Stylediffusion: Controllable disentangled style transfer via diffusion models](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_StyleDiffusion_Controllable_Disentangled_Style_Transfer_via_Diffusion_Models_ICCV_2023_paper.pdf)              | ICCV 2023       | 2023.08      |
 | [Hierarchical diffusion autoencoders and disentangled image manipulation](https://openaccess.thecvf.com/content/WACV2024/papers/Lu_Hierarchical_Diffusion_Autoencoders_and_Disentangled_Image_Manipulation_WACV_2024_paper.pdf)                   | WACV 2024       | 2023.04      |
 | [Towards Real-time Text-driven Image Manipulation with Unconditional Diffusion Models](https://arxiv.org/abs/2304.04344)      | arXiv 2023      | 2023.04      |
-| [Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models](https://arxiv.org/pdf/2212.02024.pdf)                  | CVPR 2023 workshop | 2022.12   |
+| [Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models](https://arxiv.org/pdf/2212.02024.pdf)                  | CVPR workshop 2023 | 2022.12   |
 | [Diffstyler: Controllable dual diffusion for text-driven image stylization](https://arxiv.org/pdf/2211.10682.pdf)                | TNNLS 2024      | 2022.11      |
 | [Diffusion Models Already Have A Semantic Latent Space](https://arxiv.org/pdf/2210.10960.pdf)                                     | ICLR 2022       | 2022.10      |
 | [Egsde: Unpaired image-to-image translation via energy-guided stochastic differential equations](https://arxiv.org/pdf/2207.06635.pdf) | NeurIPS 2022 | 2022.07      |
@@ -102,15 +102,15 @@ Finally, we address current limitations and envision some potential directions f
 
 | Title                                                                                      | Pub                | Release Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
-| [SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control](https://arxiv.org/pdf/2312.05039.pdf) | arXiv 2023 | 2023.12 |
+| [SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control](https://arxiv.org/pdf/2312.05039.pdf) | CVPR 2024 | 2023.12 |
 | [A Task is Worth One Word: Learning with Task Prompts for High-Quality Versatile Image Inpainting](http://arxiv.org/abs/2312.03594) | arXiv 2023 | 2023.12 |
 | [DreamInpainter: Text-Guided Subject-Driven Image Inpainting with Diffusion Models](http://arxiv.org/abs/2312.03771) | arXiv 2023 | 2023.12 |
 | [Uni-paint: A Unified Framework for Multimodal Image Inpainting with Pretrained Diffusion Model](https://arxiv.org/abs/2310.07222) | ACM MM 2023 | 2023.10 |
 | [Face Aging via Diffusion-based Editing](https://arxiv.org/abs/2309.11321) | BMVC 2023 | 2023.09 |
-| [Anydoor: Zero-shot object-level image customization](https://arxiv.org/abs/2307.09481) | arXiv 2023 | 2023.07 |
+| [Anydoor: Zero-shot object-level image customization](https://arxiv.org/abs/2307.09481) | CVPR 2024 | 2023.07 |
 | [Paste, Inpaint and Harmonize via Denoising: Subject-Driven Image Editing with Pre-Trained Diffusion Model](http://arxiv.org/abs/2306.07596) | arXiv 2023 | 2023.06 |
 | [Text-to-image editing by image information removal](https://arxiv.org/abs/2305.17489) | WACV 2024 | 2023.05 |
-| [Reference-based Image Composition with Sketch via Structure-aware Diffusion Model](https://arxiv.org/abs/2304.09748) | arXiv 2023 | 2023.04 |
+| [Reference-based Image Composition with Sketch via Structure-aware Diffusion Model](https://arxiv.org/abs/2304.09748) | CVPR workshop 2023 | 2023.04 |
 | [Pair-diffusion: Object-level image editing with structure-and-appearance paired diffusion models](https://arxiv.org/abs/2303.17546) | arXiv 2023 | 2023.03 |
 | [Imagen editor and editbench: Advancing and evaluating text-guided image inpainting](https://arxiv.org/abs/2212.06909) | CVPR 2023 | 2022.12 |
 | [Smartbrush: Text and shape guided object inpainting with diffusion model](https://arxiv.org/abs/2212.05034) | CVPR 2023 | 2022.12 |
@@ -124,21 +124,21 @@ Finally, we address current limitations and envision some potential directions f
 | [InstructAny2Pix: Flexible Visual Editing via Multimodal Instruction Following](http://arxiv.org/abs/2312.06738) | arXiv 2023 | 2023.12 |
 | [Focus on Your Instruction: Fine-grained and Multi-instruction Image Editing by Attention Modulation](http://arxiv.org/abs/2312.10113) | CVPR 2024 | 2023.12 |
 | [Emu edit: Precise image editing via recognition and generation tasks](http://arxiv.org/abs/2311.10089) | arXiv 2023 | 2023.11 |
-| [Guiding instruction-based image editing via multimodal large language models](http://arxiv.org/abs/2309.17102) | arXiv 2023 | 2023.09 |
-| [Instructdiffusion: A generalist modeling interface for vision tasks](https://arxiv.org/abs/2309.03895) | arXiv 2023 | 2023.09 |
+| [Guiding instruction-based image editing via multimodal large language models](http://arxiv.org/abs/2309.17102) | ICLR 2024 | 2023.09 |
+| [Instructdiffusion: A generalist modeling interface for vision tasks](https://arxiv.org/abs/2309.03895) | CVPR 2024 | 2023.09 |
 | [MoEController: Instruction-based Arbitrary Image Manipulation with Mixture-of-Expert Controllers](https://arxiv.org/abs/2309.04372) | arXiv 2023 | 2023.09 |
 | [ImageBrush: Learning Visual In-Context Instructions for Exemplar-Based Image Manipulation](http://arxiv.org/abs/2308.00906) | NeurIPS 2023 | 2023.08 |
 | [Inst-Inpaint: Instructing to Remove Objects with Diffusion Models](http://arxiv.org/abs/2304.03246) | arXiv 2023 | 2023.04 |
 | [HIVE: Harnessing Human Feedback for Instructional Visual Editing](https://arxiv.org/abs/2303.09618) | CVPR 2024 | 2023.03 |
 | [DialogPaint: A Dialog-based Image Editing Model](http://arxiv.org/abs/2303.10073) | arXiv 2023 | 2023.01 |
-| [Learning to Follow Object-Centric Image Editing Instructions Faithfully](https://aclanthology.org/2023.findings-emnlp.646/) | ACL 2023 | 2023.01 |
+| [Learning to Follow Object-Centric Image Editing Instructions Faithfully](https://aclanthology.org/2023.findings-emnlp.646/) | EMNLP 2023 | 2023.01 |
 | [Instructpix2pix: Learning to follow image editing instructions](https://openaccess.thecvf.com/content/CVPR2023/html/Brooks_InstructPix2Pix_Learning_To_Follow_Image_Editing_Instructions_CVPR_2023_paper.html) | CVPR 2023 | 2022.11 |
 
 ### Training-Based: Pseudo-Target Retrieval with Weak Supervision
 
 | Title                                                                                      | Pub                | Release Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
-| [Text-Driven Image Editing via Learnable Regions](https://arxiv.org/abs/2311.16432) | arXiv 2023 | 2023.11 |
+| [Text-Driven Image Editing via Learnable Regions](https://arxiv.org/abs/2311.16432) | CVPR 2024 | 2023.11 |
 | [iEdit: Localised Text-guided Image Editing with Weak Supervision](https://arxiv.org/abs/2305.05947) | arXiv 2023 | 2023.05 |
 | [ChatFace: Chat-Guided Real Face Editing via Diffusion Latent Space Manipulation](https://arxiv.org/abs/2305.14742) | arXiv 2023 | 2023.05 |
 
@@ -150,8 +150,8 @@ Finally, we address current limitations and envision some potential directions f
 | Title                                                                                      | Pub                | Release Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
 | [Kv inversion: Kv embeddings learning for text-conditioned real image action editing](https://link.springer.com/chapter/10.1007/978-981-99-8429-9_14) | arXiv 2023 | 2023.09 |
-| [Custom-edit: Text-guided image editing with customized diffusion models](https://arxiv.org/abs/2305.15779) | arXiv 2023 | 2023.05 |
-| [Unitune: Text-driven image editing by fine tuning an image generation model on a single image](https://arxiv.org/abs/2210.09477) | arXiv 2022 | 2022.10 |
+| [Custom-edit: Text-guided image editing with customized diffusion models](https://arxiv.org/abs/2305.15779) | CVPR workshop 2023 | 2023.05 |
+| [Unitune: Text-driven image editing by fine tuning an image generation model on a single image](https://arxiv.org/abs/2210.09477) | ACM TOG 2023 | 2022.10 |
 
 
 ### Testing-Time Finetuning: Embeddings Finetuning
@@ -180,10 +180,10 @@ Finally, we address current limitations and envision some potential directions f
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
 | [StableDrag: Stable Dragging for Point-based Image Editing](https://arxiv.org/abs/2403.04437) | arXiv 2024 | 2024.03 |
 | [FreeDrag: Feature Dragging for Reliable Point-based Image Editing](https://arxiv.org/abs/2307.04684) | CVPR 2024 | 2023.12 |
-| [Contrastive Denoising Score for Text-guided Latent Diffusion Image Editing](https://arxiv.org/abs/2311.18608) | arXiv 2023 | 2023.11 |
+| [Contrastive Denoising Score for Text-guided Latent Diffusion Image Editing](https://arxiv.org/abs/2311.18608) | CVPR 2024 | 2023.11 |
 | [MagicRemover: Tuning-free Text-guided Image inpainting with Diffusion Models](https://arxiv.org/abs/2310.02848) | arXiv 2023 | 2023.10 |
-| [Dragondiffusion: Enabling drag-style manipulation on diffusion models](https://arxiv.org/abs/2307.02421) | arXiv 2023 | 2023.07 |
-| [DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing](https://arxiv.org/abs/2306.14435) | arXiv 2023 | 2023.06 |
+| [Dragondiffusion: Enabling drag-style manipulation on diffusion models](https://arxiv.org/abs/2307.02421) | ICLR 2024 | 2023.07 |
+| [DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing](https://arxiv.org/abs/2306.14435) | CVPR 2024 | 2023.06 |
 | [Delta denoising score](https://openaccess.thecvf.com/content/ICCV2023/html/Hertz_Delta_Denoising_Score_ICCV_2023_paper.html) | ICCV 2023 | 2023.04 |
 | [Diffusion-based Image Translation using disentangled style and content representation](https://arxiv.org/abs/2209.15264) | ICLR 2022 | 2022.09 |
 | [Directed Diffusion: Direct Control of Object Placement through Attention Guidance](https://arxiv.org/pdf/2302.13153.pdf) | AAAI 2024 | 2023.02 |
@@ -218,17 +218,18 @@ Finally, we address current limitations and envision some potential directions f
 | [Inversion-Free Image Editing with Natural Language](https://arxiv.org/abs/2312.04965) | CVPR 2024 | 2023.12 |
 | [Fixed-point Inversion for Text-to-image diffusion models](https://arxiv.org/abs/2312.12540) | arXiv 2023 | 2023.12 |
 | [Tuning-Free Inversion-Enhanced Control for Consistent Image Editing](https://arxiv.org/abs/2312.14611) | arXiv 2023 | 2023.12 |
-| [The Blessing of Randomness: SDE Beats ODE in General Diffusion-based Image Editing](https://arxiv.org/abs/2311.01410) | arXiv 2023 | 2023.11 |
-| [LEDITS++: Limitless Image Editing using Text-to-Image Models](https://arxiv.org/abs/2311.16711) | arXiv 2023 | 2023.11 |
+| [The Blessing of Randomness: SDE Beats ODE in General Diffusion-based Image Editing](https://arxiv.org/abs/2311.01410) | ICLR 2024 | 2023.11 |
+| [LEDITS++: Limitless Image Editing using Text-to-Image Models](https://arxiv.org/abs/2311.16711) | CVPR 2024 | 2023.11 |
 | [A latent space of stochastic diffusion models for zero-shot image editing and guidance](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_A_Latent_Space_of_Stochastic_Diffusion_Models_for_Zero-Shot_Image_ICCV_2023_paper.html) | ICCV 2023 | 2023.10 |
 | [Effective real image editing with accelerated iterative diffusion inversion](https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Effective_Real_Image_Editing_with_Accelerated_Iterative_Diffusion_Inversion_ICCV_2023_paper.html) | ICCV 2023 | 2023.09 |
 | [Fec: Three finetuning-free methods to enhance consistency for real image editing](https://arxiv.org/abs/2309.14934) | arXiv 2023 | 2023.09 |
-| [Iterative multi-granular image editing using diffusion models](https://arxiv.org/abs/2309.00613) | arXiv 2024 | 2023.09 |
+| [Iterative multi-granular image editing using diffusion models](https://arxiv.org/abs/2309.00613) | WACV 2024 | 2023.09 |
 | [ProxEdit: Improving Tuning-Free Real Image Editing With Proximal Guidance](https://arxiv.org/abs/2306.05414) | WACV 2024 | 2023.06 |
-| [Diffusion self-guidance for controllable image generation](https://arxiv.org/abs/2306.00986) | arXiv 2023 | 2023.06 |
+| [Diffusion self-guidance for controllable image generation](https://arxiv.org/abs/2306.00986) | NeurIPS 2023 | 2023.06 |
 | [Diffusion Brush: A Latent Diffusion Model-based Editing Tool for AI-generated Images](https://arxiv.org/abs/2306.00219) | arXiv 2023 | 2023.06 |
+| [Null-text guidance in diffusion models is secretly a cartoon-style creator](https://arxiv.org/abs/2305.06710) | ACM MM 2023 | 2023.05 |
 | [Negative-prompt Inversion: Fast Image Inversion for Editing with Text-guided Diffusion Models](https://arxiv.org/abs/2305.16807) | arXiv 2023 | 2023.05 |
-| [An Edit Friendly DDPM Noise Space: Inversion and Manipulations](https://github.com/inbarhub/DDPM_inversion) | arXiv 2023 | 2023.04 |
+| [An Edit Friendly DDPM Noise Space: Inversion and Manipulations](https://github.com/inbarhub/DDPM_inversion) | CVPR 2024 | 2023.04 |
 | [Training-Free Content Injection Using H-Space in Diffusion Models](https://arxiv.org/abs/2303.15403) | WACV 2024 | 2023.03 |
 | [Edict: Exact diffusion inversion via coupled transformations](https://openaccess.thecvf.com/content/CVPR2023/html/Wallace_EDICT_Exact_Diffusion_Inversion_via_Coupled_Transformations_CVPR_2023_paper.html) | CVPR 2023 | 2022.11 |
 | [Direct inversion: Optimization-free text-driven real image editing with diffusion models](https://arxiv.org/abs/2211.07825) | arXiv 2022 | 2022.11 |
@@ -241,7 +242,7 @@ Finally, we address current limitations and envision some potential directions f
 | [Tf-icon: Diffusion-based training-free cross-domain image composition](https://arxiv.org/abs/2307.12493) | ICCV 2023 | 2023.07 |
 | [Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models](https://arxiv.org/abs/2306.09869) | NeurIPS 2023 | 2023.06 |
 | [Conditional Score Guidance for Text-Driven Image-to-Image Translation](https://arxiv.org/abs/2305.18007) | NeurIPS 2023 | 2023.05 |
-| [MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing](https://arxiv.org/abs/2304.08465) | arXiv 2023 | 2023.04 |
+| [MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing](https://arxiv.org/abs/2304.08465) | ICCV 2023 | 2023.04 |
 | [Localizing Object-level Shape Variations with Text-to-Image Diffusion Models](https://arxiv.org/abs/2303.11306) | ICCV 2023 | 2023.03 |
 | [Zero-shot image-to-image translation](https://dl.acm.org/doi/abs/10.1145/3588432.3591513) | ACM SIGGRAPH 2023 | 2023.02 |
 | [Shape-Guided Diffusion With Inside-Outside Attention](https://openaccess.thecvf.com/content/WACV2024/html/Park_Shape-Guided_Diffusion_With_Inside-Outside_Attention_WACV_2024_paper.html) | WACV 2024 | 2022.12 |
@@ -258,7 +259,7 @@ Finally, we address current limitations and envision some potential directions f
 | [Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models](https://arxiv.org/abs/2306.09869) | NeurIPS 2023 | 2023.06 |
 | [Differential Diffusion: Giving Each Pixel Its Strength](https://arxiv.org/abs/2306.00950) | arXiv 2023 | 2023.06 |
 | [PFB-Diff: Progressive Feature Blending Diffusion for Text-driven Image Editing](https://arxiv.org/abs/2306.16894) | arXiv 2023 | 2023.06 |
-| [FISEdit: Accelerating Text-to-image Editing via Cache-enabled Sparse Diffusion Inference](https://arxiv.org/abs/2305.17423) | AAAI 2023 | 2023.05 |
+| [FISEdit: Accelerating Text-to-image Editing via Cache-enabled Sparse Diffusion Inference](https://arxiv.org/abs/2305.17423) | AAAI 2024 | 2023.05 |
 | [Inpaint anything: Segment anything meets image inpainting](https://arxiv.org/abs/2304.06790) | arXiv 2023 | 2023.04 |
 | [Region-aware diffusion for zero-shot text-driven image editing](https://arxiv.org/abs/2302.11797) | CVM 2023 | 2023.02 |
 | [Text-guided mask-free local image retouching](https://ieeexplore.ieee.org/abstract/document/10219704) | ICME 2023 | 2022.12 |
@@ -271,9 +272,9 @@ Finally, we address current limitations and envision some potential directions f
 
 | Title                                                                                      | Pub                | Release Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
-| [Object-aware Inversion and Reassembly for Image Editing](https://arxiv.org/abs/2310.12149) | arXiv 2023 | 2023.10 |
+| [Object-aware Inversion and Reassembly for Image Editing](https://arxiv.org/abs/2310.12149) | ICLR 2024 | 2023.10 |
 | [Ledits: Real image editing with ddpm inversion and semantic guidance](https://arxiv.org/abs/2307.00522) | arXiv 2023 | 2023.07 |
-| [Sega: Instructing diffusion using semantic dimensions](https://arxiv.org/abs/2301.12247) | arXiv 2023 | 2023.01 |
+| [Sega: Instructing diffusion using semantic dimensions](https://arxiv.org/abs/2301.12247) | NeurIPS 2023 | 2023.01 |
 | [The stable artist: Steering semantics in diffusion latent space](https://arxiv.org/abs/2212.06013) | arXiv 2022 | 2022.12 |
 
 # Benchmark EditEval
