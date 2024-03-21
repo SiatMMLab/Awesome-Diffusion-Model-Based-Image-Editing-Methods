@@ -83,7 +83,7 @@ Finally, we address current limitations and envision some potential directions f
 ## Training-Based
 
 ### Training-Based: Domain-Specific Editing with Weak Supervision
-| Title                                                                                      | Pub                | Release Date |
+| Title                                                                                      | Publication                | Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
 | [CycleNet: Rethinking Cycle Consistency in Text-Guided Diffusion for Image Manipulation](https://arxiv.org/abs/2310.13165)     | NeurIPS 2023    | 2023.10      |
 | [Stylediffusion: Controllable disentangled style transfer via diffusion models](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_StyleDiffusion_Controllable_Disentangled_Style_Transfer_via_Diffusion_Models_ICCV_2023_paper.pdf)              | ICCV 2023       | 2023.08      |
@@ -100,7 +100,7 @@ Finally, we address current limitations and envision some potential directions f
 
 ### Training-Based: Reference and Attribute Guidance via Self-Supervision
 
-| Title                                                                                      | Pub                | Release Date |
+| Title                                                                                      | Publication                | Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
 | [SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control](https://arxiv.org/pdf/2312.05039.pdf) | CVPR 2024 | 2023.12 |
 | [A Task is Worth One Word: Learning with Task Prompts for High-Quality Versatile Image Inpainting](http://arxiv.org/abs/2312.03594) | arXiv 2023 | 2023.12 |
@@ -118,7 +118,7 @@ Finally, we address current limitations and envision some potential directions f
 | [Paint by example: Exemplar-based image editing with diffusion models](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Paint_by_Example_Exemplar-Based_Image_Editing_With_Diffusion_Models_CVPR_2023_paper.html) | CVPR 2023 | 2022.11 |
 
 ### Training-Based: Instructional Editing via Full Supervision
-| Title                                                                                      | Pub                | Release Date |
+| Title                                                                                      | Publication                | Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
 | [SmartEdit: Exploring Complex Instruction-based Image Editing with Multimodal Large Language Models](http://arxiv.org/abs/2312.06739) | CVPR 2024 | 2023.12 |
 | [InstructAny2Pix: Flexible Visual Editing via Multimodal Instruction Following](http://arxiv.org/abs/2312.06738) | arXiv 2023 | 2023.12 |
@@ -136,7 +136,7 @@ Finally, we address current limitations and envision some potential directions f
 
 ### Training-Based: Pseudo-Target Retrieval with Weak Supervision
 
-| Title                                                                                      | Pub                | Release Date |
+| Title                                                                                      | Publication                | Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
 | [Text-Driven Image Editing via Learnable Regions](https://arxiv.org/abs/2311.16432) | CVPR 2024 | 2023.11 |
 | [iEdit: Localised Text-guided Image Editing with Weak Supervision](https://arxiv.org/abs/2305.05947) | arXiv 2023 | 2023.05 |
@@ -147,7 +147,7 @@ Finally, we address current limitations and envision some potential directions f
 
 ### Testing-Time Finetuning: Denosing Model Finetuning
 
-| Title                                                                                      | Pub                | Release Date |
+| Title                                                                                      | Publication                | Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
 | [Kv inversion: Kv embeddings learning for text-conditioned real image action editing](https://link.springer.com/chapter/10.1007/978-981-99-8429-9_14) | arXiv 2023 | 2023.09 |
 | [Custom-edit: Text-guided image editing with customized diffusion models](https://arxiv.org/abs/2305.15779) | CVPR workshop 2023 | 2023.05 |
@@ -156,7 +156,7 @@ Finally, we address current limitations and envision some potential directions f
 
 ### Testing-Time Finetuning: Embeddings Finetuning
 
-| Title                                                                                      | Pub                | Release Date |
+| Title                                                                                      | Pub                | Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
 | [Dynamic Prompt Learning: Addressing Cross-Attention Leakage for Text-Based Image Editing](https://openreview.net/forum?id=5UXXhVI08r) | NeurIPS 2023 | 2023.09 |
 | [Prompt Tuning Inversion for Text-Driven Image Editing Using Diffusion Models](http://arxiv.org/abs/2305.04441) | ICCV 2023 | 2023.05 |
@@ -167,7 +167,7 @@ Finally, we address current limitations and envision some potential directions f
 
 ### Testing-Time Finetuning: Guidance with Hypernetworks
 
-| Title                                                                                      | Pub                | Release Date |
+| Title                                                                                      | Publication                | Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
 | [StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing](https://arxiv.org/abs/2303.15649) | arXiv 2023 | 2023.05 |
 | [Inversion-based creativity transfer with diffusion models](https://arxiv.org/abs/2211.13203) | CVPR 2023 | 2022.11 |
@@ -176,7 +176,7 @@ Finally, we address current limitations and envision some potential directions f
 
 ### Testing-Time Finetuning: Latent Variable Optimization
 
-| Title                                                                                      | Pub                | Release Date |
+| Title                                                                                      | Publication                | Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
 | [StableDrag: Stable Dragging for Point-based Image Editing](https://arxiv.org/abs/2403.04437) | arXiv 2024 | 2024.03 |
 | [FreeDrag: Feature Dragging for Reliable Point-based Image Editing](https://arxiv.org/abs/2307.04684) | CVPR 2024 | 2023.12 |
@@ -191,7 +191,7 @@ Finally, we address current limitations and envision some potential directions f
 
 ### Testing-Time Finetuning: Hybrid Finetuning
 
-| Title                                                                                      | Pub                | Release Date |
+| Title                                                                                      | Publication                | Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
 | [Forgedit: Text Guided Image Editing via Learning and Forgetting](https://arxiv.org/abs/2309.10556) | arXiv 2023 | 2023.09 |
 | [LayerDiffusion: Layered Controlled Image Editing with Diffusion Models](https://arxiv.org/abs/2305.18676) | arXiv 2023 | 2023.05 |
@@ -204,7 +204,7 @@ Finally, we address current limitations and envision some potential directions f
 
 ### Training and Finetuning Free: Input Text Refinement
 
-| Title                                                                                      | Pub                | Release Date |
+| Title                                                                                      | Publication              | Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
 | [User-friendly Image Editing with Minimal Text Input: Leveraging Captioning and Injection Techniques](https://arxiv.org/abs/2306.02717) | arXiv 2023 | 2023.06 |
 | [ReGeneration Learning of Diffusion Models with Rich Prompts for Zero-Shot Image Translation](https://arxiv.org/abs/2305.04651) | arXiv 2023 | 2023.05 |
@@ -213,7 +213,7 @@ Finally, we address current limitations and envision some potential directions f
 
 ### Training and Finetuning Free: Inversion/Sampling Modification
 
-| Title                                                                                      | Pub                | Release Date |
+| Title                                                                                      | Publication               | Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
 | [Inversion-Free Image Editing with Natural Language](https://arxiv.org/abs/2312.04965) | CVPR 2024 | 2023.12 |
 | [Fixed-point Inversion for Text-to-image diffusion models](https://arxiv.org/abs/2312.12540) | arXiv 2023 | 2023.12 |
@@ -236,7 +236,7 @@ Finally, we address current limitations and envision some potential directions f
 
 
 ### Training and Finetuning Free: Attention Modification
-| Title                                                                                      | Pub                | Release Date |
+| Title                                                                                      | Publication             | Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
 | [HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models](https://arxiv.org/abs/2312.14091) | arXiv 2023 | 2023.12 |
 | [Tf-icon: Diffusion-based training-free cross-domain image composition](https://arxiv.org/abs/2307.12493) | ICCV 2023 | 2023.07 |
@@ -252,7 +252,7 @@ Finally, we address current limitations and envision some potential directions f
 
 ### Training and Finetuning Free: Mask Guidance
 
-| Title                                                                                      | Pub                | Release Date |
+| Title                                                                                      | Publication             | Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
 | [ZONE: Zero-Shot Instruction-Guided Local Editing](https://arxiv.org/abs/2312.16794) | CVPR 2024 | 2023.12 |
 | [Watch your steps: Local image and scene editing by text instructions](https://arxiv.org/abs/2308.08947) | arXiv 2023 | 2023.08 |
@@ -270,7 +270,7 @@ Finally, we address current limitations and envision some potential directions f
 ### Training and Finetuning Free: Multi-Noise Redirection
 
 
-| Title                                                                                      | Pub                | Release Date |
+| Title                                                                                      | Publication            | Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
 | [Object-aware Inversion and Reassembly for Image Editing](https://arxiv.org/abs/2310.12149) | ICLR 2024 | 2023.10 |
 | [Ledits: Real image editing with ddpm inversion and semantic guidance](https://arxiv.org/abs/2307.00522) | arXiv 2023 | 2023.07 |
