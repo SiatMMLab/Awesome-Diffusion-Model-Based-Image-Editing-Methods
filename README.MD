@@ -156,7 +156,7 @@ Finally, we address current limitations and envision some potential directions f
 
 ### Testing-Time Finetuning: Embeddings Finetuning
 
-| Title                                                                                      | Pub                | Date |
+| Title                                                                                      | Publication            | Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
 | [Dynamic Prompt Learning: Addressing Cross-Attention Leakage for Text-Based Image Editing](https://openreview.net/forum?id=5UXXhVI08r) | NeurIPS 2023 | 2023.09 |
 | [Prompt Tuning Inversion for Text-Driven Image Editing Using Diffusion Models](http://arxiv.org/abs/2305.04441) | ICCV 2023 | 2023.05 |
