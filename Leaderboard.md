@@ -216,8 +216,8 @@
   </tr>
   <tr>
     <td>5</td>
-    <td><a href="https://arxiv.org/pdf/2304.03246.pdf">Inst-Paint</a></td>
-    <td><a href="https://arxiv.org/pdf/2304.03246.pdf">Instinpaint: Instructing to remove objects with diffusion models (arXiv 2023)</a></td>
+    <td><a href="https://arxiv.org/pdf/2304.03246.pdf">Inst-Inpaint</a></td>
+    <td><a href="https://arxiv.org/pdf/2304.03246.pdf">Inst-Inpaint: Instructing to Remove Objects with Diffusion Models (arXiv 2023)</a></td>
     <td>EditEval_v1</td>
     <td>6.10</td>
     <td>1.54</td>
