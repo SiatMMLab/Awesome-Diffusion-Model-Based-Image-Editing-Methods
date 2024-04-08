@@ -242,6 +242,7 @@ Finally, we address current limitations and envision some potential directions f
 ### Training and Finetuning Free: Attention Modification
 | Title                                                                                      | Publication             | Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
+| [Towards Understanding Cross and Self-Attention in Stable Diffusion for Text-Guided Image Editing](https://arxiv.org/abs/2403.03431) | CVPR 2024 | 2024.03 |
 | [HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models](https://arxiv.org/abs/2312.14091) | arXiv 2023 | 2023.12 |
 | [Tf-icon: Diffusion-based training-free cross-domain image composition](https://arxiv.org/abs/2307.12493) | ICCV 2023 | 2023.07 |
 | [Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models](https://arxiv.org/abs/2306.09869) | NeurIPS 2023 | 2023.06 |
