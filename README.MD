@@ -115,7 +115,7 @@ Finally, we address current limitations and envision some potential directions f
 | [Paste, Inpaint and Harmonize via Denoising: Subject-Driven Image Editing with Pre-Trained Diffusion Model](http://arxiv.org/abs/2306.07596) | arXiv 2023 | 2023.06 |
 | [Text-to-image editing by image information removal](https://arxiv.org/abs/2305.17489) | WACV 2024 | 2023.05 |
 | [Reference-based Image Composition with Sketch via Structure-aware Diffusion Model](https://arxiv.org/abs/2304.09748) | CVPR workshop 2023 | 2023.04 |
-| [Pair-diffusion: Object-level image editing with structure-and-appearance paired diffusion models](https://arxiv.org/abs/2303.17546) | arXiv 2023 | 2023.03 |
+| [PAIR-Diffusion: A Comprehensive Multimodal Object-Level Image Editor](https://arxiv.org/abs/2303.17546) | CVPR 2024 | 2023.03 |
 | [Imagen editor and editbench: Advancing and evaluating text-guided image inpainting](https://arxiv.org/abs/2212.06909) | CVPR 2023 | 2022.12 |
 | [Smartbrush: Text and shape guided object inpainting with diffusion model](https://arxiv.org/abs/2212.05034) | CVPR 2023 | 2022.12 |
 | [ObjectStitch: Object Compositing With Diffusion Model](http://arxiv.org/abs/2212.00932) | CVPR 2023 | 2022.12 |
