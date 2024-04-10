@@ -106,6 +106,7 @@ Finally, we address current limitations and envision some potential directions f
 
 | Title                                                                                      | Publication                | Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
+|[InstructGIE: Towards Generalizable Image Editing](https://arxiv.org/abs/2403.05018) | arXiv 2024 | 2024.03 |
 | [SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control](https://arxiv.org/pdf/2312.05039.pdf) | CVPR 2024 | 2023.12 |
 | [A Task is Worth One Word: Learning with Task Prompts for High-Quality Versatile Image Inpainting](http://arxiv.org/abs/2312.03594) | arXiv 2023 | 2023.12 |
 | [DreamInpainter: Text-Guided Subject-Driven Image Inpainting with Diffusion Models](http://arxiv.org/abs/2312.03771) | arXiv 2023 | 2023.12 |
