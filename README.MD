@@ -89,6 +89,7 @@ Finally, we address current limitations and envision some potential directions f
 ### Training-Based: Domain-Specific Editing with Weak Supervision
 | Title                                                                                      | Publication                | Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
+| [TexFit: Text-Driven Fashion Image Editing with Diffusion Models](https://ojs.aaai.org/index.php/AAAI/issue/view/584)     | AAAI 2024   | 2024.03      |
 | [CycleNet: Rethinking Cycle Consistency in Text-Guided Diffusion for Image Manipulation](https://arxiv.org/abs/2310.13165)     | NeurIPS 2023    | 2023.10      |
 | [Stylediffusion: Controllable disentangled style transfer via diffusion models](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_StyleDiffusion_Controllable_Disentangled_Style_Transfer_via_Diffusion_Models_ICCV_2023_paper.pdf)              | ICCV 2023       | 2023.08      |
 | [Hierarchical diffusion autoencoders and disentangled image manipulation](https://openaccess.thecvf.com/content/WACV2024/papers/Lu_Hierarchical_Diffusion_Autoencoders_and_Disentangled_Image_Manipulation_WACV_2024_paper.pdf)                   | WACV 2024       | 2023.04      |
