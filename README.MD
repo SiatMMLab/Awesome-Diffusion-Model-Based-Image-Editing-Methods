@@ -113,7 +113,7 @@ Finally, we address current limitations and envision some potential directions f
 | [Uni-paint: A Unified Framework for Multimodal Image Inpainting with Pretrained Diffusion Model](https://arxiv.org/abs/2310.07222) | ACM MM 2023 | 2023.10 |
 | [Face Aging via Diffusion-based Editing](https://arxiv.org/abs/2309.11321) | BMVC 2023 | 2023.09 |
 | [Anydoor: Zero-shot object-level image customization](https://arxiv.org/abs/2307.09481) | CVPR 2024 | 2023.07 |
-| [Paste, Inpaint and Harmonize via Denoising: Subject-Driven Image Editing with Pre-Trained Diffusion Model](http://arxiv.org/abs/2306.07596) | arXiv 2023 | 2023.06 |
+| [Paste, Inpaint and Harmonize via Denoising: Subject-Driven Image Editing with Frozen Pre-Trained Diffusion Model](http://arxiv.org/abs/2306.07596) | ICASSP 2024 | 2023.06 |
 | [Text-to-image editing by image information removal](https://arxiv.org/abs/2305.17489) | WACV 2024 | 2023.05 |
 | [Reference-based Image Composition with Sketch via Structure-aware Diffusion Model](https://arxiv.org/abs/2304.09748) | CVPR workshop 2023 | 2023.04 |
 | [PAIR-Diffusion: A Comprehensive Multimodal Object-Level Image Editor](https://arxiv.org/abs/2303.17546) | CVPR 2024 | 2023.03 |
