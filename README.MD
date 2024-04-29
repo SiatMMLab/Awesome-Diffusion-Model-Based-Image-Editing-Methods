@@ -37,6 +37,7 @@ Finally, we address current limitations and envision some potential directions f
 
 
 ## 🔍 BibTeX
+If you find this work helpful in your research, welcome to cite the paper and give a ⭐.
 
 ```
 @article{huang2024diffusion,
