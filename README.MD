@@ -126,6 +126,7 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 ### Training-Based: Instructional Editing via Full Supervision
 | Title                                                                                      | Publication                | Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
+| [EditWorld: Simulating World Dynamics for Instruction-Following Image Editing](https://arxiv.org/abs/2405.14785) | arXiv 2024 | 2024.05 |
 | [InstructGIE: Towards Generalizable Image Editing](https://arxiv.org/abs/2403.05018) | arXiv 2024 | 2024.03 |
 | [SmartEdit: Exploring Complex Instruction-based Image Editing with Multimodal Large Language Models](http://arxiv.org/abs/2312.06739) | CVPR 2024 | 2023.12 |
 | [InstructAny2Pix: Flexible Visual Editing via Multimodal Instruction Following](http://arxiv.org/abs/2312.06738) | arXiv 2023 | 2023.12 |
