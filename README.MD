@@ -27,6 +27,8 @@ Finally, we address current limitations and envision some potential directions f
 
 📌 We are actively tracking the latest research and welcome contributions to our repository and survey paper. If your studies are relevant, please feel free to contact us.
 
+📰 2024-10-25: Our benchmark [EditEval_v2](#benchmark-editeval_v2) is now released.
+
 📰 2024-03-22: The [template](EditEval_v1/Metric/LMM_Score_GPT4V_Prompt_Template.md) of computing LMM Score using GPT-4V, along with a corresponding [leaderboard](#leaderboard) comparing several leading methods, is released.
 
 📰 2024-03-14: Our benchmark [EditEval_v1](#benchmark-editeval_v1) is now released.
@@ -262,19 +264,20 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 
 ### Training and Finetuning Free: Mask Guidance
 
-| Title                                                                                      | Publication             | Date |
-|-------------------------------------------------------------------------------------------|--------------------|--------------|
-| [ZONE: Zero-Shot Instruction-Guided Local Editing](https://arxiv.org/abs/2312.16794) | CVPR 2024 | 2023.12 |
-| [Watch your steps: Local image and scene editing by text instructions](https://arxiv.org/abs/2308.08947) | arXiv 2023 | 2023.08 |
-| [Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models](https://arxiv.org/abs/2306.09869) | NeurIPS 2023 | 2023.06 |
-| [Differential Diffusion: Giving Each Pixel Its Strength](https://arxiv.org/abs/2306.00950) | arXiv 2023 | 2023.06 |
-| [PFB-Diff: Progressive Feature Blending Diffusion for Text-driven Image Editing](https://arxiv.org/abs/2306.16894) | arXiv 2023 | 2023.06 |
-| [FISEdit: Accelerating Text-to-image Editing via Cache-enabled Sparse Diffusion Inference](https://arxiv.org/abs/2305.17423) | AAAI 2024 | 2023.05 |
-| [Inpaint anything: Segment anything meets image inpainting](https://arxiv.org/abs/2304.06790) | arXiv 2023 | 2023.04 |
-| [Region-aware diffusion for zero-shot text-driven image editing](https://arxiv.org/abs/2302.11797) | CVM 2023 | 2023.02 |
-| [Text-guided mask-free local image retouching](https://ieeexplore.ieee.org/abstract/document/10219704) | ICME 2023 | 2022.12 |
-| [Blended diffusion for text-driven editing of natural images](https://openaccess.thecvf.com/content/CVPR2022/papers/Avrahami_Blended_Diffusion_for_Text-Driven_Editing_of_Natural_Images_CVPR_2022_paper.pdf) | CVPR 2022 | 2021.11 |
-| [DiffEdit: Diffusion-based semantic image editing with mask guidance](https://openreview.net/forum?id=3lge0p5o-M-) | ICLR 2023 | 2022.10 |
+| Title                                                                                      | Publication   | Date    |
+|-------------------------------------------------------------------------------------------|---------------|---------|
+| [Grounded-Instruct-Pix2Pix: Improving Instruction Based Image Editing with Automatic Target Grounding](https://ieeexplore.ieee.org/document/10446377) | ICASSP 2024   | 2024.03 |
+| [ZONE: Zero-Shot Instruction-Guided Local Editing](https://arxiv.org/abs/2312.16794) | CVPR 2024     | 2023.12 |
+| [Watch your steps: Local image and scene editing by text instructions](https://arxiv.org/abs/2308.08947) | arXiv 2023    | 2023.08 |
+| [Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models](https://arxiv.org/abs/2306.09869) | NeurIPS 2023  | 2023.06 |
+| [Differential Diffusion: Giving Each Pixel Its Strength](https://arxiv.org/abs/2306.00950) | arXiv 2023    | 2023.06 |
+| [PFB-Diff: Progressive Feature Blending Diffusion for Text-driven Image Editing](https://arxiv.org/abs/2306.16894) | arXiv 2023    | 2023.06 |
+| [FISEdit: Accelerating Text-to-image Editing via Cache-enabled Sparse Diffusion Inference](https://arxiv.org/abs/2305.17423) | AAAI 2024     | 2023.05 |
+| [Inpaint anything: Segment anything meets image inpainting](https://arxiv.org/abs/2304.06790) | arXiv 2023    | 2023.04 |
+| [Region-aware diffusion for zero-shot text-driven image editing](https://arxiv.org/abs/2302.11797) | CVM 2023      | 2023.02 |
+| [Text-guided mask-free local image retouching](https://ieeexplore.ieee.org/abstract/document/10219704) | ICME 2023     | 2022.12 |
+| [Blended diffusion for text-driven editing of natural images](https://openaccess.thecvf.com/content/CVPR2022/papers/Avrahami_Blended_Diffusion_for_Text-Driven_Editing_of_Natural_Images_CVPR_2022_paper.pdf) | CVPR 2022     | 2021.11 |
+| [DiffEdit: Diffusion-based semantic image editing with mask guidance](https://openreview.net/forum?id=3lge0p5o-M-) | ICLR 2023     | 2022.10 |
 | [Blended latent diffusion](https://arxiv.org/abs/2206.02779) | SIGGRAPH 2023 | 2022.06 |
 
 ### Training and Finetuning Free: Multi-Noise Redirection
@@ -291,6 +294,10 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 
 
 **EditEval_v1** is a benchmark tailored for evaluation of general diffusion-model based image editing algorithms. It contains 50 high-quality images selected from [Unsplash](https://unsplash.com/), each accompanied by a source text prompt, a target editing prompt, and a text editing instruction generated by GPT-4V. This benchmark covers seven most popular specific editing tasks across semantic, stylistic and structural editing defined in our paper: *object addition*, *object replacement*,  *object removal*, *background change*, *overall style change*, *texture change*, and *action change*. Click [here](EditEval_v1/Dataset) to download this dataset!
+
+# Benchmark EditEval_v2
+
+**EditEval_v2** is an enhanced benchmark designed to evaluate general diffusion-model-based image editing algorithms. This version expands upon its predecessor by including 150 high-quality images selected from [Unsplash](https://unsplash.com/). Each image is paired with a source text prompt, a target editing prompt, and a text editing instruction generated by GPT-4V. EditEval_v2 continues to cover the seven most popular specific editing tasks across semantic, stylistic, and structural editing as defined in our paper: *object addition*, *object replacement*,  *object removal*, *background change*, *overall style change*, *texture change*, and *action change*. Click [here](https://drive.google.com/file/d/13PCkf_NmkoMsO4E-05eiv714ykd_69QA/view?usp=sharing) to download this dataset!
 
 # Leaderboard
 
