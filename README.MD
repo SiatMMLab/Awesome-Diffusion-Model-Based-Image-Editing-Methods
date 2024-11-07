@@ -90,7 +90,7 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 # Papers
 ## Training-Based
 
-### Training-Based: Domain-Specific Editing with Weak Supervision
+### Training-Based: Domain-Specific Editing
 | Title                                                                                      | Publication                | Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
 | [TexFit: Text-Driven Fashion Image Editing with Diffusion Models](https://ojs.aaai.org/index.php/AAAI/issue/view/584)     | AAAI 2024   | 2024.03      |
@@ -107,10 +107,11 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 | [Diffusionclip: Text-guided diffusion models for robust image manipulation](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.pdf)                 | CVPR 2022       | 2021.01      |
 
 
-### Training-Based: Reference and Attribute Guidance via Self-Supervision
+### Training-Based: Reference and Attribute Guided Editing
 
 | Title                                                                                      | Publication                | Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
+| [MagicEraser: Erasing Any Objects via Semantics-Aware Control](https://arxiv.org/abs/2410.10207) | ECCV 2024 | 2024.10 |
 | [SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control](https://arxiv.org/pdf/2312.05039.pdf) | CVPR 2024 | 2023.12 |
 | [A Task is Worth One Word: Learning with Task Prompts for High-Quality Versatile Image Inpainting](http://arxiv.org/abs/2312.03594) | arXiv 2023 | 2023.12 |
 | [DreamInpainter: Text-Guided Subject-Driven Image Inpainting with Diffusion Models](http://arxiv.org/abs/2312.03771) | arXiv 2023 | 2023.12 |
@@ -126,7 +127,7 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 | [ObjectStitch: Object Compositing With Diffusion Model](http://arxiv.org/abs/2212.00932) | CVPR 2023 | 2022.12 |
 | [Paint by example: Exemplar-based image editing with diffusion models](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Paint_by_Example_Exemplar-Based_Image_Editing_With_Diffusion_Models_CVPR_2023_paper.html) | CVPR 2023 | 2022.11 |
 
-### Training-Based: Instructional Editing via Full Supervision
+### Training-Based: Instructional Editing
 | Title                                                                                      | Publication                | Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
 | [FreeEdit: Mask-free Reference-based Image Editing with Multi-modal Instruction](https://arxiv.org/abs/2409.18071) | arXiv 2024 | 2024.09 |
@@ -146,7 +147,7 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 | [Learning to Follow Object-Centric Image Editing Instructions Faithfully](https://aclanthology.org/2023.findings-emnlp.646/) | EMNLP 2023 | 2023.01 |
 | [Instructpix2pix: Learning to follow image editing instructions](https://openaccess.thecvf.com/content/CVPR2023/html/Brooks_InstructPix2Pix_Learning_To_Follow_Image_Editing_Instructions_CVPR_2023_paper.html) | CVPR 2023 | 2022.11 |
 
-### Training-Based: Pseudo-Target Retrieval with Weak Supervision
+### Training-Based: Pseudo-Target Retrieval-Based Editing
 
 | Title                                                                                      | Publication                | Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
