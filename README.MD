@@ -269,6 +269,7 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 | Title                                                                                      | Publication   | Date    |
 |-------------------------------------------------------------------------------------------|---------------|---------|
 | [Grounded-Instruct-Pix2Pix: Improving Instruction Based Image Editing with Automatic Target Grounding](https://ieeexplore.ieee.org/document/10446377) | ICASSP 2024   | 2024.03 |
+| [MAG-Edit: Localized Image Editing in Complex Scenarios via Mask-Based Attention-Adjusted Guidance](https://arxiv.org/abs/2312.11396) | ACM MM 2024     | 2023.12 |
 | [ZONE: Zero-Shot Instruction-Guided Local Editing](https://arxiv.org/abs/2312.16794) | CVPR 2024     | 2023.12 |
 | [Watch your steps: Local image and scene editing by text instructions](https://arxiv.org/abs/2308.08947) | arXiv 2023    | 2023.08 |
 | [Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models](https://arxiv.org/abs/2306.09869) | NeurIPS 2023  | 2023.06 |
