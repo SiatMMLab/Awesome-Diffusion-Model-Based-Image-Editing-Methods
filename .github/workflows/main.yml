@@ -16,15 +16,15 @@ jobs:
             const categories = {
               'Training-Based': {
                 label: 'training',
-                assignees: ['Zwette', 'jiaxilv']
+                assignees: ['Zwette', 'jiaxilv', 'Easquel']
               },
               'Testing-Time Finetuning': {
                 label: 'testing-time finetuning',
-                assignees: ['liuyifan6613']
+                assignees: ['liuyifan6613', 'Easquel', 'Zwette']
               },
               'Training and Finetuning Free': {
                 label: 'training & finetuning free',
-                assignees: ['huangjch526', 'mingfuyan']
+                assignees: ['huangjch526', 'MingfuYAN', 'Easquel', 'Zwette']
               }
             };
             
