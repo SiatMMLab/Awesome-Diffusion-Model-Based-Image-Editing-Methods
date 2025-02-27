@@ -45,11 +45,12 @@ Finally, we address current limitations and envision some potential directions f
 If you find this work helpful in your research, welcome to cite the paper and give a ⭐.
 
 ```
-@article{huang2024diffusion,
+@article{huang2025diffusion,
   title={Diffusion Model-Based Image Editing: A Survey},
-  author={Huang, Yi and Huang, Jiancheng and Liu, Yifan and Yan, Mingfu and Lv, Jiaxi and Liu, Jianzhuang and Xiong, Wei and Zhang, He and Chen, Shifeng and Cao, Liangliang},
-  journal={arXiv preprint arXiv:2402.17525},
-  year={2024}
+  author={Huang, Yi and Huang, Jiancheng and Liu, Yifan and Yan, Mingfu and Lv, Jiaxi and Liu, Jianzhuang and Xiong, Wei and Zhang, He and Cao, Liangliang and Chen, Shifeng},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2025},
+  publisher={IEEE}
 }
 ```
 
