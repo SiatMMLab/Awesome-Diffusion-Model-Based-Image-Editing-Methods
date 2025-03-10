@@ -255,6 +255,7 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 ### Training and Finetuning Free: Attention Modification
 | Title                                                                                      | Publication             | Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
+| [KV-Edit: Training-Free Image Editing for Precise Background Preservation](https://arxiv.org/abs/2502.17363) | arXiv 2025 | 2025.02 |
 | [LIME: Localized Image Editing via Attention Regularization in Diffusion Models](https://arxiv.org/abs/2312.09256) | WACV 2025 | 2024.12 |
 | [Towards Understanding Cross and Self-Attention in Stable Diffusion for Text-Guided Image Editing](https://arxiv.org/abs/2403.03431) | CVPR 2024 | 2024.03 |
 | [HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models](https://arxiv.org/abs/2312.14091) | arXiv 2023 | 2023.12 |
