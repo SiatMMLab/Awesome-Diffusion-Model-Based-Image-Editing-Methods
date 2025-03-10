@@ -10,7 +10,7 @@
 [![arXiv](media/arXiv-Paper-red.svg)](https://arxiv.org/abs/2402.17525) 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=SiatMMLab.Awesome-Diffusion-Model-Based-Image-Editing-Methods)](https://visitor-badge.laobi.icu/badge?page_id=SiatMMLab.Awesome-Diffusion-Model-Based-Image-Editing-Methods)
 
-The repository is based on our survey [Diffusion Model-Based Image Editing: A Survey](https://arxiv.org/pdf/2402.17525.pdf).
+The repository is based on our survey [Diffusion Model-Based Image Editing: A Survey](https://arxiv.org/pdf/2402.17525.pdf) (TPAMI 2025).
 
 Yi Huang*, Jiancheng Huang*, Yifan Liu*, Mingfu Yan*, Jiaxi Lv*, Jianzhuang Liu*, Wei Xiong, He Zhang, Liangliang Cao, Shifeng Chen
 
