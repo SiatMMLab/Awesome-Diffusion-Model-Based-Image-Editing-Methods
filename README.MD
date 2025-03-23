@@ -27,7 +27,7 @@ Finally, we address current limitations and envision some potential directions f
 
 📌 We are actively tracking the latest research and welcome contributions to our repository and survey paper. If your studies are relevant, please feel free to contact us.
 
-📰 2025-02-11: 🥳 Congrats, our paper is accepted by TPAMI2025!! 
+📰 2025-02-11: 🥳 Congrats, our paper is accepted by TPAMI 2025!! 
 
 📰 2024-10-25: Our benchmark [EditEval_v2](#benchmark-editeval_v2) is now released.
 
