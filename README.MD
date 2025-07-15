@@ -133,6 +133,7 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 ### Training-Based: Instructional Editing
 | Title                                                                                      | Publication                | Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
+| [UIP2P: Unsupervised Instruction-based Image Editing via Edit Reversibility Constraint](https://arxiv.org/abs/2412.15216) | ICCV 2025 | 2024.12 |
 | [FreeEdit: Mask-free Reference-based Image Editing with Multi-modal Instruction](https://arxiv.org/abs/2409.18071) | arXiv 2024 | 2024.09 |
 | [EditWorld: Simulating World Dynamics for Instruction-Following Image Editing](https://arxiv.org/abs/2405.14785) | arXiv 2024 | 2024.05 |
 | [InstructGIE: Towards Generalizable Image Editing](https://arxiv.org/abs/2403.05018) | arXiv 2024 | 2024.03 |
