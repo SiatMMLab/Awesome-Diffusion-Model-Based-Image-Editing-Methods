@@ -114,6 +114,7 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 
 | Title                                                                                      | Publication                | Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
+| [SIA: Selective Image Analogy](https://selective-image-analogy.github.io/) | ACM SIGGRAPH Asia 2026 | — |
 | [MagicEraser: Erasing Any Objects via Semantics-Aware Control](https://arxiv.org/abs/2410.10207) | ECCV 2024 | 2024.10 |
 | [SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control](https://arxiv.org/pdf/2312.05039.pdf) | CVPR 2024 | 2023.12 |
 | [A Task is Worth One Word: Learning with Task Prompts for High-Quality Versatile Image Inpainting](http://arxiv.org/abs/2312.03594) | arXiv 2023 | 2023.12 |
@@ -256,6 +257,7 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 ### Training and Finetuning Free: Attention Modification
 | Title                                                                                      | Publication             | Date |
 |-------------------------------------------------------------------------------------------|--------------------|--------------|
+| [Cora: Correspondence-aware Image Editing Using Few-Step Diffusion](https://arxiv.org/abs/2505.23907) | ACM SIGGRAPH 2025 | 2025.05 |
 | [KV-Edit: Training-Free Image Editing for Precise Background Preservation](https://arxiv.org/abs/2502.17363) | arXiv 2025 | 2025.02 |
 | [LIME: Localized Image Editing via Attention Regularization in Diffusion Models](https://arxiv.org/abs/2312.09256) | WACV 2025 | 2024.12 |
 | [Towards Understanding Cross and Self-Attention in Stable Diffusion for Text-Guided Image Editing](https://arxiv.org/abs/2403.03431) | CVPR 2024 | 2024.03 |
